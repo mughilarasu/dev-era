@@ -1,0 +1,30 @@
+light{
+palette:{primary:{main:"#4B275C",dark:"#212121",
+light: "#7986cb",contrastText: "#fff"}},
+text:{
+primary: "#fff"
+}
+background:{
+default: "#303030"
+paper: "#424242"
+}
+}
+
+dark{
+appbar:"#48435C",
+tabbar:"#5A5766",
+body:"#48435C"
+}
+
+theme1:{
+appbar:"#48435C",
+tabbar:"#5A5766",
+body:"#48435C"
+}
+
+theme2:{
+appbar:"#48435C",
+tabbar:"#5A5766",
+body:"#48435C"
+}
+
